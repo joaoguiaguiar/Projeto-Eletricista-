@@ -1,0 +1,107 @@
+@import url("./estilos/header.css");
+
+
+body{
+    color: rgb(0, 0, 0);
+    height: 100vh;
+    font-family: 'Roboto', sans-serif;
+}
+
+
+.sessao1{
+    background-image: url("../img/banner.png");
+    width: 100%;
+    height: 80vh;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.sessao1_contaier{
+    flex-wrap: wrap;
+}
+
+.container__sessao2{
+    margin-left: 2rem;
+    color: black;
+    font-weight: bold;
+}
+
+.section3{
+    background-image: url("../img/eletricista.png");
+    width: 100%;
+    height: 60vh;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.img__section3{
+margin-top: 6.8rem;
+}
+
+.container__section3{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 1rem;
+}
+
+.card{
+  background: linear-gradient(to right ,rgb(5, 120, 222), rgba(1, 1, 187, 0.448));
+  border-radius: 50px 5px;
+  box-shadow: 5px 10px 8px #888888;
+}
+
+.cards{
+padding-left: 2rem;
+   max-width: 85%;
+}
+
+.section5{
+    background-color: rgba(155, 155, 155, 0.136);
+    padding: 3rem;
+}
+
+hr{
+    width: 100%;
+}
+
+.form-control{
+    width: 90%;
+}
+
+
+
+iframe{
+width: 100%;
+height: 50vb;
+
+}
+
+.section7{
+    background-color: rgba(155, 155, 155, 0.136);
+    padding: 3rem;
+}
+
+
+
+
+footer{
+background-color: rgb(255, 255, 255);
+    padding: 5rem;
+}
+
+.logo__empresa{
+    background-image: url("../img/logo\ empresa.png");
+    width: 100px;
+    height: 100px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    border: none;
+}
+
+.section__rodape{
+    background-color: black;
+    padding: 0.5rem;
+
+}

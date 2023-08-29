@@ -1,0 +1,91 @@
+
+
+
+/*Tablet*/
+
+@media only screen and (min-width: 768px) and (max-width: 1023px) {
+    .sessao1{
+        background-image: url("../img/banner-tablet.png");
+        width: 100%;
+        height: 80vh;
+        background-repeat: no-repeat;
+        background-size: cover;
+    }
+
+    .section3{
+        background-image: url("../img/eletricista.png");
+        width: 100%;
+        height: 80vh;
+        background-repeat: no-repeat;
+        background-size: cover;
+    }
+
+
+
+}
+
+/*Smartphone*/
+
+@media only screen and (max-width: 768px){
+   
+    .sessao1{
+        background-image: url("../img/banner-cel.png");
+        width: 100%;
+        height: 80vh;
+        background-repeat: no-repeat;
+        background-size: cover;
+    }
+   
+   
+    .sessao1_contaier{
+        width: 70%;
+    }
+
+
+    .sessao1_descricao{
+        margin-left: 1rem;
+        width: 80%;
+    }
+
+
+	
+    .container__sessao2{
+        width: 70%;
+    }
+
+    .descricao__sessao2{
+        margin-left: 1rem;
+        width: 80%;
+    }
+
+    .section3{
+        background-image: url("../img/eletricista.png");
+        width: 100%;
+        height: 40vh;
+        background-repeat: no-repeat;
+        background-size: cover;
+    }
+
+    .descricao__section3{
+        width: 80%;
+    }
+
+    .cards{
+        margin-left: 5rem;
+    }  
+
+    .lista_section{
+        margin-right:4rem ;
+    }
+
+
+    .cards{
+margin-right: 3rem;
+         }
+
+
+
+
+}
+
+
