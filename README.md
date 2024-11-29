@@ -10,4 +10,4 @@ Tecnologias Utilizadas
 	•	CSS
 
 Link do proketo :
-# Projeto-Eletricista- https://projeto-eletricista.vercel.app/
+https://projeto-eletricista.vercel.app/
