@@ -9,5 +9,5 @@ Tecnologias Utilizadas
 	•	HTML
 	•	CSS
 
-Link do proketo :
+Link do projeto :
 https://projeto-eletricista.vercel.app/
