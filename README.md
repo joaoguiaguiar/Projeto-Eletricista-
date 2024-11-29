@@ -1,8 +1,3 @@
-
-Link do proketo :
-# Projeto-Eletricista- https://projeto-eletricista.vercel.app/
-
-
 Sobre
 
 Esse foi o meu primeiro site relacionado ao desenvolvimento front-end. Para criar essa interface, utilizei como referência estruturas de sites HTML que pesquisei no Google. Apesar de ter usado essa base como inspiração, adaptei e construí o design do meu jeito, explorando ideias e aprendizados durante o processo.
@@ -13,3 +8,6 @@ Tecnologias Utilizadas
 
 	•	HTML
 	•	CSS
+
+Link do proketo :
+# Projeto-Eletricista- https://projeto-eletricista.vercel.app/
